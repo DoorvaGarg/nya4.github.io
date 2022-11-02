@@ -1,18 +1,7 @@
 # is this what the title looks like
-<!DOCTYPE html>
-<HTML>
-<HEAD>
-</HEAD>
-<BODY>
-Ok so there weren't like clear directions on what I should make. I did HTML in CSP so I kinda copied some code from there<BR>
-Heres a list of fruit
-<UL>
-- Apples <BR>
-- Bananas <BR>
-- Pears <BR>
-- Pineapples <BR>
-</UL>
 
+<<<<<<< HEAD
+=======
 does this work <BR>
 omg it works <BR>
 
